@@ -9,7 +9,7 @@ The Recycle Bin Classifier aims to tackle the global issue of waste management b
 
 ## Key Technologies Used
 - Backend: Python with TensorFlow and Keras
-- Cloud Deployment: Google Cloud Platform (GCP)
+- Cloud Deployment: Google Cloud Platform (GCP) 
 - Frontend: React Native
 
 ## Project Highlights
